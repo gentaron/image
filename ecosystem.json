@@ -1,0 +1,87 @@
+{
+  "$schema": "https://raw.githubusercontent.com/gentaron/infocollect/HEAD/ecosystem/schema.json",
+  "schema": 1,
+  "name": "image",
+  "group": "edu",
+  "groupLabel": "EDU 宇宙",
+  "status": "active",
+  "role": "EDU のキャラクターアートの置き場（URL で参照される）",
+  "stack": "画像",
+  "produces": [
+    "art"
+  ],
+  "consumes": [],
+  "upstream": [],
+  "downstream": [
+    {
+      "repo": "edu",
+      "flows": [
+        "art"
+      ],
+      "url": "https://github.com/gentaron/edu"
+    },
+    {
+      "repo": "eurekaspace",
+      "flows": [
+        "art"
+      ],
+      "url": "https://github.com/gentaron/eurekaspace"
+    },
+    {
+      "repo": "irisworlds",
+      "flows": [
+        "art"
+      ],
+      "url": "https://github.com/gentaron/irisworlds"
+    },
+    {
+      "repo": "laylaland",
+      "flows": [
+        "art"
+      ],
+      "url": "https://github.com/gentaron/laylaland"
+    },
+    {
+      "repo": "edunft",
+      "flows": [
+        "art"
+      ],
+      "url": "https://github.com/gentaron/edunft"
+    },
+    {
+      "repo": "gamemina",
+      "flows": [
+        "art"
+      ],
+      "url": "https://github.com/gentaron/gamemina"
+    },
+    {
+      "repo": "minagal",
+      "flows": [
+        "art"
+      ],
+      "url": "https://github.com/gentaron/minagal"
+    }
+  ],
+  "siblings": [
+    "edutext",
+    "edu",
+    "eurekaspace",
+    "irisworlds",
+    "laylaland",
+    "edunft",
+    "gamemina"
+  ],
+  "predecessors": [
+    "image-manage"
+  ],
+  "hub": {
+    "repo": "https://github.com/gentaron/infocollect",
+    "map": "https://github.com/gentaron/infocollect/blob/HEAD/ecosystem/README.md",
+    "kb": "https://raw.githubusercontent.com/gentaron/infocollect/HEAD/docs/kb",
+    "mcp": [
+      "infocollect-kb",
+      "forge"
+    ]
+  }
+}

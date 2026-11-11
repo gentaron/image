@@ -84,3 +84,17 @@ MinaEurekaErnst, LaylaVirelNova, Iris, Miyushari, Gareth, Fiona, Elena, CastinaT
 ## License
 
 [MIT](LICENSE)
+
+<!-- ecosystem:begin (自動生成: gentaron/infocollect の ecosystem/registry.json から。手で直さない) -->
+
+## つながり
+
+gentaron のリポジトリ群のうち **EDU 宇宙** の一つ。EDU のキャラクターアートの置き場（URL で参照される）。
+
+- **渡す**: [edu](https://github.com/gentaron/edu)（キャラクターアート）、[eurekaspace](https://github.com/gentaron/eurekaspace)（キャラクターアート）、[irisworlds](https://github.com/gentaron/irisworlds)（キャラクターアート）、[laylaland](https://github.com/gentaron/laylaland)（キャラクターアート）、[edunft](https://github.com/gentaron/edunft)（キャラクターアート）、[gamemina](https://github.com/gentaron/gamemina)（キャラクターアート）、[minagal](https://github.com/gentaron/minagal)（キャラクターアート）
+- **同じ島**: [edutext](https://github.com/gentaron/edutext)
+- **前身**: [image-manage](https://github.com/gentaron/image-manage)
+
+全体の地図 → [ecosystem](https://github.com/gentaron/infocollect/blob/HEAD/ecosystem/README.md)
+
+<!-- ecosystem:end -->
